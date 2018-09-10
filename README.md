@@ -24,26 +24,22 @@ As a product manager, you need to have project management skills. Product manage
 
 # What’s a normal day like for a typical PM? 
 
-•	A day as a PM is always dynamic, but example activities include:
-o	Check emails and tech news, make sure you’re up to date with the industry
-•	https://www.producthunt.com/
-•	https://news.ycombinator.com/
-•	https://www.techmeme.com/
-•	https://www.launchticker.com/
-
-o	Analyze the metrics dashboard
-o	Standup meetings and metric updates
-o	Meet with designers to talk about current problems and feedback and think about new solutions
-o	Write specs, tickets, user stories for upcoming features
-o	Test latest mobile release and test on different platforms, report bugs
-o	Meet with team to do sprint planning or retrospective
-o	Meet with other PMs that are stakeholders
-o	Meet with data science team and look at exploratory data from user behavior
-o	Look at user tests of new features
-o	Present metrics milestones to executives, investors, other PMs
-o	Present a recent accomplishment
-o	Open houses
-o	Meet with new employers for orientation
+A day as a PM is always dynamic, but example activities include:
+•	Check emails and tech news, make sure you’re up to date with the industry
+(https://www.producthunt.com/, https://news.ycombinator.com/, https://www.techmeme.com/, https://www.launchticker.com/)
+•	Analyze the metrics dashboard
+•	Standup meetings and metric updates
+•	Meet with designers to talk about current problems and feedback and think about new solutions
+•	Write specs, tickets, user stories for upcoming features
+•	Test latest mobile release and test on different platforms, report bugs
+•	Meet with team to do sprint planning or retrospective
+•	Meet with other PMs that are stakeholders
+•	Meet with data science team and look at exploratory data from user behavior
+•	Look at user tests of new features
+•	Present metrics milestones to executives, investors, other PMs
+•	Present a recent accomplishment
+•	Open houses
+•	Meet with new employers for orientation
 
 # Why is being a PM awesome? 
 
