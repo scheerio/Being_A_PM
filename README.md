@@ -56,19 +56,19 @@ Introduction (Dreem), growth (Snapchat), maturity (Twitter), decline (Yahoo). Yo
 # What about phases of products on a smaller scale?
 
 •	Conceive
-o	Find user problems and think of solutions
+(find user problems and think of solutions)
 •	Plan
-o	Roadmaps, interviews, research
+(roadmaps, interviews, research)
 •	Develop
-o	Make timelines, write features, stories, estimations, requirements
+(make timelines, write features, stories, estimations, requirements)
 •	Iterate
-o	Finish the MVP or early prototype, test assumptions, use tools for testing different versions of the product
+(finish the MVP or early prototype, test assumptions, use tools for testing different versions of the product)
 •	Launch
-o	Work with marketing team, legal team, PR team, sales team, and position for public launch, see the reaction
+(work with marketing team, legal team, PR team, sales team, and position for public launch, see the reaction)
 •	Steady state
-o	Collect metrics, optimize metrics, sales continue
+(collect metrics, optimize metrics, sales continue)
 •	Maintain or kill
-o	Analyze data to see return on investment and how competitive the product is, decide to kill or maintain it, may not fit company’s vision anymore or may not make revenue (if kill, called “sun-setting”)
+(analyze data to see return on investment and how competitive the product is, decide to kill or maintain it, may not fit company’s vision anymore or may not make revenue -- if kill, called “sun-setting”)
 
 # What is Lean?
 
