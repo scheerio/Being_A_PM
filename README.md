@@ -1,7 +1,6 @@
 # Being_A_PM
+By Ben Scheer
 My take on what it means to be a Product Manager, based on research and learnings.
-
-Ben’s Notes: Product Management
 
 # What is product management? 
 
