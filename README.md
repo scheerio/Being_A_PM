@@ -43,7 +43,7 @@ A day as a PM is always dynamic, but example activities include:
 
 # Why is being a PM awesome? 
 
-As a PM, you’re a communicator and a jack-of-all-trades. You get to influence every part of your business and interact with every key person on every key. PM’s have incredible career potential.
+As a PM, you’re a communicator and a jack-of-all-trades. You get to influence every part of your business and interact with every key person on every key. PMs have incredible career potential.
 
 # What are the phases of a company/product? 
 
