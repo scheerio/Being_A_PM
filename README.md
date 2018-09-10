@@ -1,6 +1,6 @@
 # Being_A_PM
 
-My take on what it means to be a Product Manager, based on research and learnings.
+I was curious about what it means to be a product manager. Here's my brief take on what it means to be a Product Manager, based on research, learnings, and online lectures. This includes frameworks to be aware of, tools to know, definitions, and more!
 
 # What is product management? 
 
