@@ -20,7 +20,7 @@ The B2B PM role is a good intro role with a small number of users (more than Int
 
 # What’s the difference between product vs. project management? 
 
-As a product manager, you need to have project management skills. Product managers are successful for the success of the product while project managers are responsible for accomplishing a project (not a goal). For products, success is defined by KPIs or metrics, and the method by which goals are reached is not defined – usually up to them and the team. A project usually have a timeline and a budget as a constraint.
+As a product manager, you need to have project management skills. Product managers are successful for the success of the product while project managers are responsible for accomplishing a project (not a goal). For products, success is defined by KPIs or metrics, and the method by which goals are reached is not defined – usually up to them and the team. A project usually has a timeline and a budget as a constraint.
 
 # What’s a normal day like for a typical PM? 
 
