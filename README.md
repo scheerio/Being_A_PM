@@ -72,7 +72,7 @@ This product development philosophy is about cutting all of the unnecessary work
 
 # What is Agile?
 
-Agile is a way f applying the lean mindset to software development. In this framework, we group things into small batches and do them one by one, in order to not waste resources. 
+Agile is a way of applying the lean mindset to software development. In this framework, we group things into small batches and do them one by one, in order to not waste resources. 
 
 # What is Scrum?
 
