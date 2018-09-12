@@ -108,7 +108,7 @@ Your approach can be top down (find total market and estimate what your share of
 
 # How do I find competitors?
 
-You need to collect info on competitors and make judgments on what it means for your product. If there are no competitors, figure out why. You are in charge of feature triage. The features you choose much get you more users, make your users happy, and/or enhance your brand. You can’t make decisions until you know what your competitors look like, what they’re doing, and what they offer now. Record every single competitor you find, and list the competitors as either Known or Unknown. If unknown, use three techniques:
+You need to collect info on competitors and make judgments on what it means for your product. If there are no competitors, figure out why. You are in charge of feature triage. The features you choose must get you more users, make your users happy, and/or enhance your brand. You can’t make decisions until you know what your competitors look like, what they’re doing, and what they offer now. Record every single competitor you find, and list the competitors as either Known or Unknown. If unknown, use three techniques:
 •	Channel the type of user
 •	Search for “site: [popular site]” and your search term
 •	Search for exact phrases using quotation marks
