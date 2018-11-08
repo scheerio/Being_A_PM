@@ -113,7 +113,7 @@ You need to collect info on competitors and make judgments on what it means for 
 •	Search for “site: [popular site]” and your search term
 •	Search for exact phrases using quotation marks
 
-There are four main types of competitiors. Direct (going after your customers), Indirect (solving your problem in different way), Potential (offer something to same target customers but don’t solve same problem), and Substitute (solves same core problem but usually doesn’t target same people). There are five dimensions used to compare yourself to competitors:
+There are four main types of competitors. Direct (going after your customers), Indirect (solving your problem in a different way), Potential (offer something to same target customers but don’t solve the same problem), and Substitute (solves same core problem but usually doesn’t target same people). There are five dimensions used to compare yourself to competitors:
 •	The product core
 •	Size of their user base
 •	Design
@@ -214,7 +214,7 @@ The cloud is just a buzzword for the internet. A server stores data and client a
 When have you needed to prioritize?
 When have you talked to users of a product you made?
 When have you given feedback?
-When have you acquired data to make decisions are give feedback?
+When have you acquired data to make decisions or give feedback?
 When have you worked on something in multiple teams?
 When have you improved the efficiency of a process?
 
