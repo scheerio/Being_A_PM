@@ -100,7 +100,7 @@ You can get a list of ideas, but you don’t just go out and build them. Being a
 
 # What’s the difference between users and customers?
 
-Sometimes the people who pay for your product (customers) are not the same people are use it (users). The company that buys it will give you feedback about general features that they need it to have. The actual users will give you feedback about technical issues they encounter while using the product.
+Sometimes the people who pay for your product (customers) are not the same people are using it (users). The company that buys it will give you feedback about general features that they need it to have. The actual users will give you feedback about technical issues they encounter while using the product.
 
 # How do you size the market?
 
